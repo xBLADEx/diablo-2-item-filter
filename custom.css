@@ -1,0 +1,64 @@
+body {
+  margin: 20px auto;
+  padding: 0 20px;
+  max-width: 1180px;
+  background-color: #141414;
+  color: #838383;
+}
+
+h1 {
+  margin-bottom: 30px;
+  color: #920000;
+}
+
+.form-control {
+  margin-bottom: 10px;
+  max-width: 300px;
+  background-color: #363636;
+  color: #ffffff;
+  border-color: black;
+}
+
+.form-control:focus,
+.form-control:hover {
+  background-color: #363636;
+  color: #ffffff;
+}
+
+.d2-item-name {
+  font-weight: 700;
+}
+
+.color-unique {
+  color: #c7b377;
+}
+
+.color-set {
+  color: #0f0;
+}
+
+.green {
+  color: #00a65a;
+}
+
+.medium {
+  color: #9392ff;
+}
+
+.yellow {
+  color: #f39c12;
+}
+
+.red {
+  color: #ff5454;
+}
+
+.table-head {
+  position: sticky;
+  top: 0;
+  background-color: #363636;
+}
+
+.table-head th {
+  border: 0;
+}
