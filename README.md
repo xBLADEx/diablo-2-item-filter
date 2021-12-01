@@ -1,1 +1,1 @@
-# diablo-2-item-filter
+# Diablo 2: Estimated Item Value
